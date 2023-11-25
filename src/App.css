@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.comment{
+  color: aqua;
+}
+*{
+  direction: rtl;
+}
